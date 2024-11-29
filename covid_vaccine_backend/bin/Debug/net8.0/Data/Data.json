@@ -1,0 +1,56 @@
+﻿-- Province Table
+CREATE TABLE Province (
+    ProvinceID INT PRIMARY KEY IDENTITY(1,1),
+    ProvinceName NVARCHAR(100) NOT NULL
+);
+
+-- Customer Table
+CREATE TABLE Customer (
+    CustomerID INT PRIMARY KEY IDENTITY(1,1),
+    FirstName NVARCHAR(100) NOT NULL,
+    LastName NVARCHAR(100) NOT NULL,
+    PhoneNumber NVARCHAR(50) NOT NULL,
+    Email NVARCHAR(100) NOT NULL,
+    Address NVARCHAR(255)
+);
+
+-- Shop Table
+CREATE TABLE Shop (
+    ShopID INT PRIMARY KEY IDENTITY(1,1),
+    ShopName NVARCHAR(100) NOT NULL,
+    Location NVARCHAR(255) NOT NULL
+);
+
+-- VaccineCard Table
+CREATE TABLE VaccineCard (
+    VaccineCardID INT PRIMARY KEY IDENTITY(1,1),
+    CardType NVARCHAR(50) NOT NULL,  -- 'MOH' or 'MOD'
+    VaccinationDate DATE NOT NULL,
+    VaccineManufacturer NVARCHAR(100) NOT NULL,
+    IsFullyVaccinated BIT NOT NULL,
+    DosesReceived INT NOT NULL,
+    MilitaryId NVARCHAR(50),
+    KhmerName NVARCHAR(100),
+    EnglishName NVARCHAR(100),
+    PassportNo NVARCHAR(50),
+    PhoneNumber NVARCHAR(50)
+);
+
+-- Visit Table
+CREATE TABLE Visit (
+    VisitID INT PRIMARY KEY IDENTITY(1,1),
+    CustomerID INT NOT NULL,
+    ShopID INT NOT NULL,
+    VaccineCardID INT NOT NULL,
+    ProvinceID INT NOT NULL,
+    VisitDate DATETIME NOT NULL,
+    VisitPurpose NVARCHAR(255),
+    HealthScreeningPassed BIT NOT NULL,
+
+    -- Foreign Key Constraints
+    CONSTRAINT FK_Visit_Customer FOREIGN KEY (CustomerID) REFERENCES Customer(CustomerID),
+    CONSTRAINT FK_Visit_Shop FOREIGN KEY (ShopID) REFERENCES Shop(ShopID),
+    CONSTRAINT FK_Visit_VaccineCard FOREIGN KEY (VaccineCardID) REFERENCES VaccineCard(VaccineCardID),
+    CONSTRAINT FK_Visit_Province FOREIGN KEY (ProvinceID) REFERENCES Province(ProvinceID)
+);
+

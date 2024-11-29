@@ -1,0 +1,10 @@
+﻿
+dotnet ef migrations add InitialCreate
+dotnet ef migrations add UpdateVaccineCardTable
+dotnet ef migrations remove --force
+dotnet ef database drop
+dotnet ef database update
+dotnet Clean
+dotnet build
+dotnet run
+

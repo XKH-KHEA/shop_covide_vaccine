@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\noted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:noted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\covidvaccinecardsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:covidvaccinecardsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\model\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:model\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\model\\vaccinecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:model\\vaccinecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\model\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:model\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\model\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:model\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\controllers\\vaccinecardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:controllers\\vaccinecardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\controllers\\shopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:controllers\\shopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\controllers\\provincescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:controllers\\provincescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|c:\\users\\rog\\documents\\asp_net\\shop_covide_vaccine\\covid_vaccine_backend\\covidvaccinecardsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF5801DF-5EEE-4201-8D02-066DBDC51D66}|CovidVaccineCardSystem.csproj|solutionrelative:covidvaccinecardsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Model\\Shop.cs",
+              "RelativeDocumentMoniker": "Model\\Shop.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Model\\Shop.cs",
+              "RelativeToolTip": "Model\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:07:30.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VaccineCard.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Model\\VaccineCard.cs",
+              "RelativeDocumentMoniker": "Model\\VaccineCard.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Model\\VaccineCard.cs",
+              "RelativeToolTip": "Model\\VaccineCard.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:51:31.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Model\\Visit.cs",
+              "RelativeDocumentMoniker": "Model\\Visit.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Model\\Visit.cs",
+              "RelativeToolTip": "Model\\Visit.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:11:08.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Services\\ReportService.cs",
+              "RelativeToolTip": "Services\\ReportService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA3wD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:34:25.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T06:43:45.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CovidVaccineCardSystem.http",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\CovidVaccineCardSystem.http",
+              "RelativeDocumentMoniker": "CovidVaccineCardSystem.http",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\CovidVaccineCardSystem.http",
+              "RelativeToolTip": "CovidVaccineCardSystem.http",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-28T09:39:25.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Noted.txt",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Noted.txt",
+              "RelativeDocumentMoniker": "Noted.txt",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Noted.txt",
+              "RelativeToolTip": "Noted.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-28T06:37:55.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:52:52.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Model\\Report.cs",
+              "RelativeDocumentMoniker": "Model\\Report.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Model\\Report.cs",
+              "RelativeToolTip": "Model\\Report.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:51:24.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Province.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Model\\Province.cs",
+              "RelativeDocumentMoniker": "Model\\Province.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Model\\Province.cs",
+              "RelativeToolTip": "Model\\Province.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:22:52.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Model\\Customer.cs",
+              "RelativeToolTip": "Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:13:25.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:40:26.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Data.json",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Data\\Data.json",
+              "RelativeDocumentMoniker": "Data\\Data.json",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Data\\Data.json",
+              "RelativeToolTip": "Data\\Data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T06:08:35.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VisitsController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Controllers\\VisitsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VisitsController.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Controllers\\VisitsController.cs",
+              "RelativeToolTip": "Controllers\\VisitsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwC0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:23:23.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VaccineCardsController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Controllers\\VaccineCardsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VaccineCardsController.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Controllers\\VaccineCardsController.cs",
+              "RelativeToolTip": "Controllers\\VaccineCardsController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwCMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:21:28.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShopsController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Controllers\\ShopsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopsController.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Controllers\\ShopsController.cs",
+              "RelativeToolTip": "Controllers\\ShopsController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwDEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:20:48.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:35:24.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProvincesController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Controllers\\ProvincesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProvincesController.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Controllers\\ProvincesController.cs",
+              "RelativeToolTip": "Controllers\\ProvincesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:22:27.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:19:06.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\config\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "config\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\config\\AppDbContext.cs",
+              "RelativeToolTip": "config\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:51:39.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T08:01:42.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CovidVaccineCardSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\CovidVaccineCardSystem.csproj",
+              "RelativeDocumentMoniker": "CovidVaccineCardSystem.csproj",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\Shop_Covide_Vaccine\\covid_vaccine_backend\\CovidVaccineCardSystem.csproj",
+              "RelativeToolTip": "CovidVaccineCardSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T05:59:34.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+    "customer": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "phoneNumber": "+855 12 345 678",
+      "email": "john.doe@example.com",
+      "address": "1234 Phnom Penh St, Phnom Penh, Cambodia"
+    },
+    "shop": {
+      "shopName": "Phnom Penh Electronics",
+      "location": "Phnom Penh, Cambodia"
+    },
+    "vaccineCard": {
+      "cardType": "MOH",
+      "vaccinationDate": "2024-11-28T14:55:01.267Z",
+      "vaccineManufacturer": "AstraZeneca",
+      "isFullyVaccinated": true,
+      "dosesReceived": 2,
+      "militaryId": "",
+      "khmerName": "សុខសាន្ត ដួង",
+      "englishName": "Sok Sanh Doung",
+      "passportNo": "P1234567",
+      "phoneNumber": "+855 12 987 654"
+    },
+    "province": {
+      "provinceName": "Phnom Penh",
+      "visitors": [
+        {
+          "name": "Sok Sanh Doung",
+          "province": "Phnom Penh",
+          "vaccineCards": [
+            {
+              "cardType": "MOH",
+              "vaccinationDate": "2024-11-28T14:55:01.267Z",
+              "vaccineManufacturer": "AstraZeneca",
+              "isFullyVaccinated": true,
+              "dosesReceived": 2,
+              "militaryId": "",
+              "khmerName": "សុខសាន្ត ដួង",
+              "englishName": "Sok Sanh Doung",
+              "passportNo": "P1234567",
+              "phoneNumber": "+855 12 987 654"
+            }
+          ]
+        }
+      ]
+    },
+    "visitDate": "2024-11-28T14:55:01.267Z",
+    "visitPurpose": "Shopping and electronics purchase",
+    "healthScreeningPassed": true
+  }
+  

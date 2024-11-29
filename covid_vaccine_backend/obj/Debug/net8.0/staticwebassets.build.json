@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gD84AnbsFvNo8xvdsq/LrfLgNzessRm9w1TuA6DtKgE=",
+  "Source": "CovidVaccineCardSystem",
+  "BasePath": "_content/CovidVaccineCardSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
