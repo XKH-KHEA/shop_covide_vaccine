@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';;
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import ShopList from "./Component/ShopList";
 import VaccineCard from "./Component/VaccineCard";
 import CustomerManager from "./Component/Customers";
